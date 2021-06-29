@@ -1,0 +1,9 @@
+{
+	"name": "delphiredisclient",
+	"description": "",
+	"version": "2.1.0",
+	"homepage": "https://github.com/danieleteti/delphiredisclient",
+	"mainsrc": "sources/",
+	"projects": [],
+	"dependencies": {}
+}
